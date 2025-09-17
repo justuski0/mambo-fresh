@@ -3,7 +3,6 @@
 This is a landing page project built as part of **The Odin Project** curriculum, customized for a local Kenyan business: **Mambo Fresh**.
 
 Mambo Fresh delivers organic fruits and vegetables grown by Kenyan farmers directly to homes in Nairobi and Eldoret.  
-The design follows The Odin Project’s landing page assignment, with Kenyan-themed content.
 
 ---
 
