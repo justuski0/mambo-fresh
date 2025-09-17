@@ -32,14 +32,3 @@ The design follows The Odin Project’s landing page assignment, with Kenyan-the
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3 (Flexbox)**
-
----
-
-## 📸 Screenshots
-### Desktop View
-![Landing Page Preview](./screenshot.png)  
-*(Replace with an actual screenshot of your project once hosted)*
-
----
-
-## 📂 Project Structure
